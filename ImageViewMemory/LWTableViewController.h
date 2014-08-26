@@ -1,5 +1,5 @@
 //
-//  LWViewController.h
+//  LWTableViewController.h
 //  ImageViewMemory
 //
 //  Created by 电魂 on 8/26/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LWViewController : UIViewController
-@property (nonatomic) NSInteger index;
+@interface LWTableViewController : UITableViewController
+
 @end
